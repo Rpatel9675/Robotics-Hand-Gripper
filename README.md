@@ -5,7 +5,7 @@ Welcome to the Robotics Hand Gripper project! This project aims to design and bu
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- Images(#Images)
+- [Images](#images)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 
