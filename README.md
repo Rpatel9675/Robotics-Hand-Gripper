@@ -1,4 +1,3 @@
-
 # Robotics Hand Gripper Project
 
 Welcome to the Robotics Hand Gripper project! This project aims to design and build a functional robotic hand gripper using 3D printing technology. The primary objective is to create a versatile and efficient gripper that can be used in various applications, from simple object handling to more complex tasks requiring precision and dexterity.
